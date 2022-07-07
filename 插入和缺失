@@ -1,0 +1,5 @@
+## 缺失时，由于大部分缺失，测序后比对到ref的距离就更大，显示红色
+## 插入时，由于大部分插入，测序后比对到ref的距离就更小，显示蓝色
+
+- https://zhuanlan.zhihu.com/p/108571232
+- https://software.broadinstitute.org/software/igv/interpreting_insert_size ## 官方文件
