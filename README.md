@@ -4,3 +4,8 @@
 在易位中，同一条read的分成的2条匹配链如果要还原，需要
 - A-T,C-G反向匹配
 - 将序列倒转
+
+### 易位模式图解
+![image](https://user-images.githubusercontent.com/41554601/210094662-a75060de-e9b9-4d5a-aaff-5f7affa0db6a.png)
+![image](https://user-images.githubusercontent.com/41554601/210094668-558f88fe-0556-4868-bb97-700ffa29b54a.png)
+
