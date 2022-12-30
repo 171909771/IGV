@@ -8,6 +8,4 @@
 ### 易位模式图解
 ![image](https://user-images.githubusercontent.com/41554601/210094662-a75060de-e9b9-4d5a-aaff-5f7affa0db6a.png)
 ![image](https://user-images.githubusercontent.com/41554601/210094668-558f88fe-0556-4868-bb97-700ffa29b54a.png)
-NH3 对应 5 prime；反之
 
-从centromere 到 telomere 就是5’到3’
