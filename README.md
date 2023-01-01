@@ -11,5 +11,6 @@
 
 ### IGV 知识点：
 - https://kaopubear.top/blog/2017-11-11-ssrna/
-- 5' to 3' 从左到右，无论短臂还是长臂
-- 分区分带都是从centromere开始，往两边延伸
+- https://bioinfogp.cnb.csic.es/tools/seqnjoy/help/
+- 上面的内容是正链和反链（参考基因组方向），正义链和反义链（RNA方向）
+- F1R2，read1是正义链，read2是反义链
