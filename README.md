@@ -10,5 +10,6 @@
 ![image](https://user-images.githubusercontent.com/41554601/210094668-558f88fe-0556-4868-bb97-700ffa29b54a.png)
 
 ### IGV 知识点：
+- https://kaopubear.top/blog/2017-11-11-ssrna/
 - 5' to 3' 从左到右，无论短臂还是长臂
 - 分区分带都是从centromere开始，往两边延伸
